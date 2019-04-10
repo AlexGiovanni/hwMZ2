@@ -1,0 +1,23 @@
+﻿  main.cpp
+  solve.cpp
+c:\users\alexis\documents\hwmz2\hwmz2\solve.cpp(24): warning C4018: '<': signed/unsigned mismatch
+c:\users\alexis\documents\hwmz2\hwmz2\solve.cpp(100): warning C4018: '<': signed/unsigned mismatch
+c:\users\alexis\documents\hwmz2\hwmz2\solve.cpp(171): warning C4018: '<': signed/unsigned mismatch
+c:\users\alexis\documents\hwmz2\hwmz2\minpriorityqueue.h(193): warning C4018: '<=': signed/unsigned mismatch
+  c:\users\alexis\documents\hwmz2\hwmz2\minpriorityqueue.h(189): note: while compiling class template member function 'void MinPriorityQueue<Vertex *>::bubble_down(void)'
+  c:\users\alexis\documents\hwmz2\hwmz2\minpriorityqueue.h(86): note: see reference to function template instantiation 'void MinPriorityQueue<Vertex *>::bubble_down(void)' being compiled
+  c:\users\alexis\documents\hwmz2\hwmz2\solve.cpp(82): note: see reference to class template instantiation 'MinPriorityQueue<Vertex *>' being compiled
+c:\users\alexis\documents\hwmz2\hwmz2\minpriorityqueue.h(193): warning C4018: '>': signed/unsigned mismatch
+c:\users\alexis\documents\hwmz2\hwmz2\minpriorityqueue.h(148): warning C4018: '<=': signed/unsigned mismatch
+  c:\users\alexis\documents\hwmz2\hwmz2\minpriorityqueue.h(146): note: while compiling class template member function 'bool MinPriorityQueue<Vertex *>::children_violation(int)'
+  c:\users\alexis\documents\hwmz2\hwmz2\minpriorityqueue.h(191): note: see reference to function template instantiation 'bool MinPriorityQueue<Vertex *>::children_violation(int)' being compiled
+c:\users\alexis\documents\hwmz2\hwmz2\minpriorityqueue.h(155): warning C4018: '<=': signed/unsigned mismatch
+c:\users\alexis\documents\hwmz2\hwmz2\minpriorityqueue.h(155): warning C4018: '>': signed/unsigned mismatch
+c:\users\alexis\documents\hwmz2\hwmz2\minpriorityqueue.h(161): warning C4018: '>': signed/unsigned mismatch
+  Generating code
+c:\users\alexis\documents\hwmz2\hwmz2\minpriorityqueue.h(117): warning C4715: 'MinPriorityQueue<Vertex *>::getPriority': not all control paths return a value
+  19 of 1152 functions ( 1.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    6 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  hwMZ2.vcxproj -> C:\Users\Alexis\Documents\hwMZ2\Release\hwMZ2.exe
